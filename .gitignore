@@ -162,3 +162,5 @@ cython_debug/
 # Personnal
 datasets/*
 !datasets/loans.csv
+!datasets/housing_market
+.DS_Store
